@@ -1,0 +1,18 @@
+[
+  {
+    "package": "lhs",
+    "oncran": true
+  },
+  {
+    "package": "SOAs",
+    "oncran": true
+  },
+  {
+    "package": "tornado",
+    "oncran": true
+  },
+  {
+    "package": "triangle",
+    "oncran": true
+  }
+]
