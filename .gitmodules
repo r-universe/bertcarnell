@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lhs"]
-	path = lhs
-	url = https://github.com/bertcarnell/lhs
 [submodule "SOAs"]
 	path = SOAs
 	url = https://github.com/bertcarnell/soas
+[submodule "lhs"]
+	path = lhs
+	url = https://github.com/bertcarnell/lhs
 [submodule "tornado"]
 	path = tornado
 	url = https://github.com/bertcarnell/tornado
