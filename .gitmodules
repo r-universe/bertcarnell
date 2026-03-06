@@ -8,6 +8,9 @@
 [submodule "lhs"]
 	path = lhs
 	url = https://github.com/bertcarnell/lhs
+[submodule "nleqslv"]
+	path = nleqslv
+	url = https://github.com/bertcarnell/nleqslv
 [submodule "tornado"]
 	path = tornado
 	url = https://github.com/bertcarnell/tornado
